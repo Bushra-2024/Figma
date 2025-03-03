@@ -1,0 +1,394 @@
+{
+  "header": {
+    "buy_account": "Buy Account",
+    "home": "Home",
+    "blog": "Blog",
+    "services": "Services"
+  },
+  "home": {
+    "title": "Start selling on Amazon right after buying an aged account or an entire online business",
+    "description": "After your payment, you will be given access to full account details such as: login, e-mail details, bank card information and other important documentation.",
+    "get_started": "GET STARTED",
+    "amazon_global_selling": "Amazon Global Selling: Access to the top international retail markets",
+    "americas": "Americas",
+    "europe": "Europe",
+    "asia_pacific": "Asia-Pacific",
+    "amazon_com": "Amazon.com",
+    "amazon_ca": "Amazon.ca",
+    "amazon_com_mx": "Amazon.com.mx",
+    "amazon_com_br": "Amazon.com.br",
+    "marketplaces": "Marketplaces",
+    "fulfillment_centers": "Fulfillment Centers",
+    "countries_with_customers": "Countries with Loyal Amazon Customers",
+    "product_categories": "Product Categories",
+    "list_of_aged_accounts": "List of aged accounts for sale",
+    "selling": "Selling",
+    "business_name": "Business Name",
+    "market": "Market",
+    "type": "Type",
+    "account_age": "Account Age",
+    "reviews": "Reviews",
+    "ratio": "Ratio",
+    "price": "Price",
+    "account_details": "Account Details",
+    "us": "US",
+    "pro_account": "Pro Account",
+    "positive": "positive",
+    "more_info": "More Info"
+  },
+  "sell_account": {
+    "h1": "Sell your Amazon account with us. Use our online evaluation tool to determine how much your account could be worth.",
+    "description": "Our professional team will support you with the sales and transfer of your Amazon account."
+  },
+  "evaluation_workflow": {
+    "title": "The evaluation workflow",
+    "key_1": "Submit a valuation request",
+    "key_2": "We get to know each other",
+    "key_3": "We suggest a fair price",
+    "steps": {
+      "step_1": {
+        "title": "Submit a valuation request",
+        "description": "Simply answer the question using our online form."
+      },
+      "step_2": {
+        "title": "We get to know each other",
+        "description": "One of our friendly sales managers will contact you to request additional information and will also answer all your questions."
+      },
+      "step_3": {
+        "title": "We suggest a fair price",
+        "description": "After reviewing all the information you have submitted and taking your opinion into account we suggest a fair and honest price for your account."
+      }
+    }
+  },
+  "evaluation_tool": {
+    "h1": "Feel free to use our online evaluation tool to find out how much your account could be worth.",
+    "description": "It will take you less than sixty seconds. A member of our team will contact you shortly after.",
+    "steps": {
+      "step_1": "Use our online evaluation tool to find out how much your account could be worth.",
+      "step_2": "Our specialist will contact you and explain how the transfer process will commence.",
+      "step_3": "Contract agreement - signed by both parties.",
+      "step_4": "Payment confirmation."
+    },
+    "form": {
+      "title": "Evaluation Tool",
+      "registration_date": "Account registration date:",
+      "earlier": "Earlier",
+      "feedbacks": "Amount of customer feedbacks:",
+      "marketplace": "Amazon marketplace location:",
+      "usa": "USA",
+      "europe": "Europe",
+      "violations": "Received policy violation notifications in the past year:",
+      "yes": "YES",
+      "no": "NO",
+      "email": "Your email address*",
+      "email_placeholder": "Enter your email address here",
+      "submit": "Get Evaluation"
+    }
+  },
+  "account_transfer_details": {
+    "title": "Details that will be changed during an account transfer",
+    "description": "The deal usually takes 5 days",
+    "changes": [
+      {
+        "title": "Business details",
+        "img_alt": "Business details"
+      },
+      {
+        "title": "Credit card",
+        "img_alt": "Credit card"
+      },
+      {
+        "title": "Address",
+        "img_alt": "Address"
+      },
+      {
+        "title": "Business details",
+        "img_alt": "Business details"
+      },
+      {
+        "title": "Business details",
+        "img_alt": "Business details"
+      }
+    ]
+  },
+  "benefits_section": {
+    "title": "Benefits you will get",
+    "benefit_1_title": "Verified Amazon Accounts",
+    "benefit_1_description": "Each account goes through an expanded multi-level authentication before the commercial offer.",
+    "benefit_2_title": "Verified Amazon Accounts",
+    "benefit_2_description": "Each account goes through an expanded multi-level authentication before the commercial offer.",
+    "benefit_3_title": "Verified Amazon Accounts",
+    "benefit_3_description": "Each account goes through an expanded multi-level authentication before the commercial offer."
+  },
+  "amazon_verified_accounts": {
+    "title": "Amazon verified accounts",
+    "description": "Become an Amazon seller! We offer country-based accounts for selling on Amazon.",
+    "benefit_1_title": "Work around the world",
+    "benefit_1_description": "The account will be installed on the server with a special IP address.",
+    "benefit_2_title": "All types of selling",
+    "benefit_2_description": "The account will be installed on the server with a special IP address.",
+    "benefit_3_title": "Money flow",
+    "benefit_3_description": "The account will be installed on the server with a special IP address."
+  },
+  "buy_account_section": {
+    "title": "Buy new or aged\nAmazon Seller account",
+    "aged_account_title": "Aged seller accounts",
+    "aged_account_description": "Aged seller accounts are checked by account health, sales history, suspensions, type of fulfillment used to sell, feedback quantity and quality, all performance notifications and ungated brands or categories. As we are having a dropshipping business on Amazon, we know everything about suspensions and importance to check all this information before selling any of the accounts.",
+    "new_account_title": "New seller accounts",
+    "new_account_description": "Aged seller accounts are checked by account health, sales history, suspensions, type of fulfillment used to sell, feedback quantity and quality, all performance notifications and ungated brands or categories. As we are having a dropshipping business on Amazon, we know everything about suspensions and importance to check all this information before selling any of the accounts."
+  },
+  "pricing": {
+    "title": "Pricing",
+    "new_amazon_seller_account": "New Amazon Seller Account",
+    "aged_amazon_seller_account": "Aged Amazon Seller Account"
+  },
+  "process": {
+    "title": "Process",
+    "step_1": {
+      "title": "Check your account",
+      "description": "Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection."
+    },
+    "step_2": {
+      "title": "Check your account",
+      "description": "Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection."
+    },
+    "step_3": {
+      "title": "Check your account",
+      "description": "Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection."
+    },
+    "step_4": {
+      "title": "Check your account",
+      "description": "Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection."
+    }
+  },
+  "leave_request_section": {
+    "title": "Leave a Request",
+    "description": "It will take you less than sixty seconds. A member of our team will contact you shortly after.",
+    "email_label": "Email Address *",
+    "email_placeholder": "info@gmail.com",
+    "phone_label": "Telephone number",
+    "phone_placeholder": "info@gmail.com",
+    "message_label": "Your message",
+    "message_placeholder": "Enter your message",
+    "send_button": "Send"
+  },
+  "clients_say": {
+    "title": "What our clients say",
+    "testimonial_1": {
+      "text": "I have to say, \"amazmarkets\" gets over an A+ rating from me. I will be recommending this company and team to everyone. Thanks again!",
+      "name": "Steven Cody"
+    },
+    "testimonial_2": {
+      "text": "I have to say, \"amazmarkets\" gets over an A+ rating from me. I will be recommending this company and team to everyone. Thanks again!",
+      "name": "Steven Cody"
+    }
+  },
+    "section1": {
+      "title": "Sell your Amazon account with us. Use our online evaluation tool to determine how much your account could be worth",
+      "description": "Our professional team will assist you in selling and transferring your Amazon account."
+    },
+  "breadcrumb": {
+    "home": "Home",
+    "blog": "BLOG",
+    "how_to_choose_cool_watches": "HOW TO CHOOSE COOL WATCHES",
+    "services": "Services",
+    "complex_launch": "Complex Launch"
+  },
+  "crypto_trading_recommendations": "CRYPTO TRADING RECOMMENDATIONS",
+  "reviews": "⭐⭐⭐⭐⭐",
+  "reviews_count": "484 Reviews",
+  "company_info": "AMAMARKETS",
+  "post_date": "October 2, 2019 • 4 days",
+  "description": "Usually, there are three main types of trade – short, medium, and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term. Medium-term traders are difficult to distinguish here. What does short term work imply? Read here crypto trading alerts.",
+  "get_started": "Get Started",
+  "claps": "23 claps",
+  "applause": "Applause from you and 3 others",
+  "social_media": {
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "bookmark": "Bookmark"
+  },
+  "learn_more": "Learn More",
+  "how_to_earn_money": "How to earn money with crypto trading algorithm?",
+  "best_crypto_trading_groups": "Best crypto trading groups trading algorithm?",
+  "how_crypto_trading_works": "How crypto trading services works?",
+  "blog": {
+    "title": "Blog",
+    "main_title": "Main Blog Title",
+    "main_description": "This is the description of the main blog post.",
+    "author": "Author",
+    "date": "Date",
+    "categories": {
+      "all_categories": "All categories",
+      "category_1": "Category 1",
+      "category_2": "Category 2",
+      "category_3": "Category 3",
+      "category_4": "Category 4"
+    },
+    "amazon_complex_launch": {
+      "title": "Amazon Complex Launch",
+      "description": "Our Amazon launch services help businesses scale efficiently."
+    },
+    "get_started": "Get Started",
+    "services": {
+      "analytics": "Analytics",
+      "analytics_1": "Detailed data analysis to track your growth.",
+      "analytics_2": "Identify trends and insights.",
+      "analytics_3": "Maximize your potential with precise reporting."
+    },
+    "meet_team": {
+      "title": "Meet Our Team",
+      "account_manager": "Account Manager"
+    },
+    "card1_title": "Blog Post Title 1",
+    "card1_description": "Description of the first blog post.",
+    "card2_title": "Blog Post Title 2",
+    "card2_description": "Description of the second blog post.",
+    "card3_title": "Blog Post Title 3",
+    "card3_description": "Description of the third blog post.",
+    "card4_title": "Blog Post Title 4",
+    "card4_description": "Description of the fourth blog post.",
+    "card5_title": "Blog Post Title 5",
+    "card5_description": "Description of the fifth blog post.",
+    "card6_title": "Blog Post Title 6",
+    "card6_description": "Description of the sixth blog post.",
+    "card7_title": "Blog Post Title 7",
+    "card7_description": "Description of the seventh blog post.",
+    "card8_title": "Blog Post Title 8",
+    "card8_description": "Description of the eighth blog post.",
+    "card9_title": "Blog Post Title 9",
+    "card9_description": "Description of the ninth blog post.",
+    "card10_title": "Blog Post Title 10",
+    "card10_description": "Description of the tenth blog post.",
+    "card11_title": "Blog Post Title 11",
+    "card11_description": "Description of the eleventh blog post.",
+    "main_image_alt": "Main blog image"
+  },
+  "blog_detail": {
+    "title": "CRYPTO TRADING RECOMMENDATIONS",
+    "description": "Usually, there are three main types of trade...",
+    "author": "AMAMARKETS",
+    "date": "October 2, 2019 • 4 days",
+    "pagination": {
+      "previous": "<",
+      "next": ">"
+    }
+  },
+  "processs": {
+    "title": "A step by step explanation of the transfer and sales process",
+    "step1": {
+      "title": "Submit calculator and appoint a call",
+      "desc": "Find out the cost of your account and book a call to consult with our manager."
+    },
+    "step2": {
+      "title": "Receive an email with screen sharing details",
+      "desc": "Find out the cost of your account and book a call to consult with our manager."
+    },
+    "step3": {
+      "title": "Submit calculator and appoint a call",
+      "desc": "Find out the cost of your account and book a call to consult with our manager."
+    },
+    "step4": {
+      "title": "Account assessment and price negotiation",
+      "desc": "Find out the cost of your account and book a call to consult with our manager."
+    },
+    "step5": {
+      "title": "It’s time to sign a bill of sale",
+      "desc": "Find out the cost of your account and book a call to consult with our manager."
+    },
+    "step6": {
+      "title": "Accept funds for your account",
+      "desc": "Find out the cost of your account and book a call to consult with our manager."
+    }
+  },
+    "breadcrumbb": {
+      "home": "Home",
+      "blog": "BLOG",
+      "title": "HOW TO CHOOSE COOL WATCHES"
+    },
+    "content": {
+      "title": "CRYPTO TRADING RECOMMENDATIONS",
+      "reviews": "484 Reviews",
+      "author": "AMAMARKETS",
+      "date": "October 2, 2019 • 4 days",
+      "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term. Medium-term traders are difficult to distinguish here. What does short term work imply? Read here crypto trading alerts."
+    },
+    "breadcrumbbbb": {
+      "type_of_trade": "Identify the type of trade, some crypto trading advice",
+      "crypto_trading_advice": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term. Medium-term traders are difficult to distinguish here. What does short term work imply? Read here crypto trading alerts.",
+      "trading_tracking_news": "Crypto trading tracking news",
+      "crypto_trading_description": "This is the trade in crypto-currencies at a small time distance in order to obtain a quick profit. Taking into account the high volatility, according to some crypto-currencies for a month you can earn more than a number of ordinary assets for the year crypto trading volume by country. As for investments, usually, they are made long-term. A trader can buy this or that coin and keep it for 6 months, a year or longer. The ultimate goal of such investments is to get profit from the difference in quotations, but only on a larger scale. go to the content.",
+      "stock_exchange_search": "Search for the stock exchange, registration, depositing funds to the trading account In order to start dealing with crypto trading, you need to find a suitable site. In the industry, at the time of writing, a large number of exchanges have been opened. Therefore, many traders, especially beginners, are quite easily confused in this diversity. What should I look for? First of all, how popular the playground is. The more it is promoted, the higher the chances that the company is really reliable and was not created to collect money from crypto trading newsletter.",
+      "psychology": "Psychology",
+      "short_term_trade": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term. Medium-term traders are difficult to distinguish here. What does short term work imply? Read here crypto trading alerts.",
+      "beginner_cryptotrader_tips": "A few tips for beginner cryptotrader with crypto trading market",
+      "beginner_cryptotrader_advice": "Many investors and crypto traders, who have not yet started their careers and are in the crypto-currency market, admit one serious mistake – they buy only bitcoins and don’t use crypto trading robot. To some extent this is correct, since bitcoin is the most famous asset and its growth has been quite significant lately. On the other hand, any professional trader and investor knows that the most important aspect of success is diversification. Accordingly, it is desirable to buy not only bitcoin, but also other cryptocurrencies. In this case, the fall of one of them can be compensated by the growth of the other. Another recommendation for beginner crypto traders is to find opportunities for arbitrage. This is one of the simplest strategies, which, at least, does not require any knowledge and does not require the study of crypto trading. The essence of this technique is that the trader is looking for a difference in prices for the same asset on two or more exchanges. When he finds such a difference, he takes advantage of the moment and profits from it."
+    },
+    "laptop": {
+      "claps": "23 claps",
+      "applause": "Applause from you and 3 others",
+      "writeComment": "Write your comment"
+    },
+    "learnMore": {
+      "title": "Learn More",
+      "card1": {
+        "title": "How to earn money with crypto trading algorithm?",
+        "description": "The number of existing cryptocurrencies and tokens has long exceeded a thousand. With each new ICO there is another token.",
+        "author": "AMAMARKETS",
+        "date": "October 2, 2019 • 4 days"
+      },
+      "card2": {
+        "title": "Best crypto trading groups trading algorithm?",
+        "description": "The number of existing cryptocurrencies and tokens has long exceeded a thousand. With each new ICO there is another token.",
+        "author": "AMAMARKETS",
+        "date": "October 2, 2019 • 4 days"
+      },
+      "card3": {
+        "title": "How crypto trading services work?",
+        "description": "The number of existing cryptocurrencies and tokens has long exceeded a thousand. With each new ICO there is another token.",
+        "author": "AMAMARKETS",
+        "date": "October 2, 2019 • 4 days"
+      }
+    },
+     "learnIt": {
+    "leaveRequest": "Leave a request to get your utility bill",
+    "description": "It will take you less than sixty seconds. A member of our team will contact you shortly after.",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "info@gmail.com",
+    "telephoneLabel": "Telephone number or Login",
+    "telephonePlaceholder": "info@gmail.com",
+    "sendButton": "Send"
+  },
+  "alif": {
+    "title": "We will answer an Amazon call on invoices",
+    "description": "In 90% of cases, Amazon calls suppliers on invoices. If the company doesn’t manage to contact the supplier, then you will receive an email that Amazon was “unable to verify the supplier”."
+  },
+    "documentsReadyToSend": "Documents ready to send out",
+  "electricityBill": "Electricity Bill",
+  "gasWaterBill": "Gas/Water Bill",
+  "internetBill": "Internet Bill",
+  "rapidity": "Rapidity",
+  "englishLanguage": "English Language",
+  "manual": "Manual",
+  "invoicesHeading": "Invoices for Amazon from a US supplier with a call",
+  "invoicesDescription": "You will receive complete documents in English ready to send out.",
+  "getInvoice": "Get an invoice",
+  "invoicesFromUSSupplier": "Invoices from a US supplier",
+  "invoiceDescription1": "This is an officially registered US wholesale supplier: The whole process will take place within the US law and complying with all Amazon requirements.",
+  "invoiceDescription2": "You receive invoices with all the instructions in 1-2 days after ordering. The supplier can also answer Amazon call on invoices.",
+  "documentsReadyToSendd": "Documents ready to send out",
+    "invoiceRequestText": "If you receive an invoice request, then you can do more than just unlocking your account.",
+    "invoiceRequestDescription": "Invoice is requested to verify your account or in connection with some violations.",
+  "footer": {
+  "buy_account": "Buy Account",
+  "sell_account": "Sell Account",
+  "services": "Services",
+  "blog": "Blog",
+  "contact_email": "support@amaz.markets",
+  "follow_us": "Follow us:",
+  "contact_us": "Contact us:",
+  "enter_email": "Enter your email",
+  "submit": "Submit"
+}
+
+}
