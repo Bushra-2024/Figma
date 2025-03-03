@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Outlet, NavLink } from "react-router-dom"; 
 import logo from "../../assets/лого 1.png";
-import menuIcon from "../../assetS/menu (1) 1.png";
+import menuIcon from "../../assets/menu (1) 1.png";
 import closeIcon from "../../assets/menu (1) 1.png";
 import logoo from "../../assets/AMAZMARKET (2) 2.png";
 import facebook from "../../assets/facebook-logo (1).png";
