@@ -33,6 +33,14 @@ const BlogDetail = () => {
     const blogPost = blogPosts.find((post) => post.id === parseInt(id));
     setPost(blogPost);
   }, [id]);
+
+  if (!post) {
+    return (
+      <div className="text-center py-8">
+        <h1 className="text-3xl font-bold text-red-500">Blog post not found!</h1>
+      </div>
+    );
+  }
   
   return (
     <div className="min-h-screen">
