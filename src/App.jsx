@@ -32,7 +32,7 @@ function App() {
           element: <Blog />,
         },
         {
-          path: "blog/:id", // Dynamic route for blog post details
+          path: "blog/:id", 
           element: <BlogDetail />,
         },
         {
